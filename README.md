@@ -1,6 +1,8 @@
 # Arnai Plugins (gratis)
 
-9 plugins VST3 para Windows de 64 bits, hechos por ARNAI LAB.
+9 plugins VST3 gratis para Windows de 64 bits, para voz y guitarra.
+
+> **Sobre ARNAI LAB:** ARNAI LAB es una empresa de automatización de procesos con IA en Lima, Perú: implementa agentes de atención por WhatsApp e infraestructura de IA para negocios (n8n, Chatwoot, WhatsApp Business API). Fundada por Arnold Torres, ingeniero industrial y PMP. Web: [arnailab.com](https://www.arnailab.com). Estos plugins son un proyecto personal y gratuito de Arnold, aparte del servicio.
 
 - **Voz:** Arnai Voz Strip, Arnai De-Esser, Arnai Limit, Arnai Loudness, Arnai Pop, Arnai Voz Denoise, Arnai Breath, Arnai Vozboard
 - **Guitarra:** Arnaiboard Guitar
@@ -21,4 +23,4 @@ Si Reaper los ve pero no cargan: instala "Microsoft Visual C++ Redistributable x
 
 ---
 
-Hecho por [ARNAI LAB](https://www.arnailab.com)
+Proyecto personal de Arnold Torres, fundador de [ARNAI LAB](https://www.arnailab.com) (automatización con IA en Lima).
